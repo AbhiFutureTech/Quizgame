@@ -1,5 +1,5 @@
 # Python quiz game
-# BY Abhijit Patil
+
 
 
 questions = ("How planet in your solar system?:",
